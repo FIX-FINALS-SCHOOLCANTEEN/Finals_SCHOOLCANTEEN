@@ -27,7 +27,7 @@ A robust, full-stack web application designed to digitize school canteen operati
 
 ### **1. Database Setup**
 
-* Create a MySQL database (e.g., `canteen_db`).
+* Create a MySQL database (e.g., `cafeteria_db`).
 * Import your SQL schema file into the database.
 * Configure the database credentials in `db_connect.php` to match your local environment.
 
@@ -35,7 +35,6 @@ A robust, full-stack web application designed to digitize school canteen operati
 
 * Ensure the `assets/` folder contains your CSS, JS, and image files.
 * Verify that the `PHPMailer/` directory is present to enable email services.
-* Create an `uploads/` folder (if not present) to store product images and set write permissions.
 
 ### **3. SMS/Mail Setup**
 
