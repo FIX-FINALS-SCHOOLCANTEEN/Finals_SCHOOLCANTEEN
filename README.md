@@ -1,4 +1,4 @@
-#### School Canteen Management System
+#### **School Canteen Management System**
 
 A robust, full-stack web application designed to digitize school canteen operations. This system facilitates seamless food ordering for students and comprehensive inventory and sales management for administrators.
 
